@@ -1,5 +1,5 @@
 # Project
-## 1 - Portfolio :
-https://kohxuan.github.io/Portfolio/
-## 2 - Bootstrap :
-https://kohxuan.github.io/
+## 1 - HTML Portfolio :
+https://kohxuan.github.io/HTML_Portfolio/
+## 2 - Bootstrap Portfolio:
+https://kohxuan.github.io/Bootstrap_Portfolio/
