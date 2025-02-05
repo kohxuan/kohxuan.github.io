@@ -14,8 +14,8 @@ jobs:
 
       - name: Create config file
         run: |
-          mkdir -p js
-          echo "const HF_TOKEN = '${{ secrets.HF_TOKEN }}';" > js/config.js
+          mkdir -p Resume_Chatbot/js
+          echo "const HF_TOKEN = '${{ secrets.HF_TOKEN }}';" > Resume_Chatbot/js/config.js
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
