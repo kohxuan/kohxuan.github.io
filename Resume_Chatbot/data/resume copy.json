@@ -1,0 +1,195 @@
+{
+    "basics": {
+        "name": "Koh Xuan",
+        "title": "Your Current Title",
+        "summary": "Your detailed professional summary",
+        "location": {
+            "city": "Your City",
+            "country": "Your Country",
+            "region": "Your Region"
+        },
+        "personality": {
+            "traits": [
+                "analytical thinker",
+                "problem solver",
+                "clear communicator",
+                "detail-oriented",
+                "team player",
+                "quick learner"
+            ],
+            "communication_style": "Direct and friendly, with a focus on clear explanations",
+            "work_style": {
+                "preferred_environment": "Collaborative with independent focus time",
+                "problem_solving_approach": "Systematic and data-driven",
+                "learning_method": "Hands-on experimentation and research"
+            },
+            "interests": [
+                "technology",
+                "artificial intelligence",
+                "software development",
+                "specific technologies you like",
+                "hobbies related to your field"
+            ]
+        },
+        "languages": [
+            {
+                "language": "English",
+                "proficiency": "Native/Fluent"
+            },
+            {
+                "language": "Other Languages",
+                "proficiency": "Level of proficiency"
+            }
+        ]
+    },
+    "experience": [
+        {
+            "position": "Your Position",
+            "company": "Company Name",
+            "duration": "2020-Present",
+            "location": "City, Country",
+            "description": "Detailed description of your role and achievements",
+            "achievements": [
+                "Specific achievement with metrics",
+                "Another quantifiable achievement",
+                "Impact on the company/team"
+            ],
+            "technologies_used": [
+                "Technology 1",
+                "Technology 2"
+            ],
+            "responsibilities": [
+                "Key responsibility 1",
+                "Key responsibility 2"
+            ],
+            "projects_led": [
+                {
+                    "name": "Project Name",
+                    "outcome": "Project result or impact",
+                    "team_size": "Team size if applicable"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "technical": [
+            {
+                "category": "Programming Languages",
+                "items": ["Language 1", "Language 2"]
+            },
+            {
+                "category": "Frameworks",
+                "items": ["Framework 1", "Framework 2"]
+            },
+            {
+                "category": "Tools",
+                "items": ["Tool 1", "Tool 2"]
+            }
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving",
+            "Team Collaboration"
+        ],
+        "methodologies": [
+            "Agile",
+            "Scrum",
+            "Other methodologies"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Your Degree",
+            "school": "School Name",
+            "year": "Year",
+            "location": "City, Country",
+            "details": "Additional education details",
+            "achievements": [
+                "Academic achievement 1",
+                "Academic achievement 2"
+            ],
+            "relevant_coursework": [
+                "Course 1",
+                "Course 2"
+            ],
+            "projects": [
+                {
+                    "name": "Academic Project",
+                    "description": "Project details",
+                    "technologies": ["Tech used"]
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project Name",
+            "description": "Detailed project description",
+            "duration": "Time taken",
+            "role": "Your role in the project",
+            "technologies": ["Tech 1", "Tech 2"],
+            "challenges": [
+                "Challenge faced",
+                "How you overcame it"
+            ],
+            "outcomes": [
+                "Project outcome 1",
+                "Project outcome 2"
+            ],
+            "links": {
+                "github": "GitHub repository link",
+                "live": "Live project link",
+                "documentation": "Documentation link"
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certification Name",
+            "issuer": "Issuing Organization",
+            "date": "Date Obtained",
+            "expires": "Expiration Date",
+            "credentials": "Credential ID"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Publication Title",
+            "publisher": "Publisher Name",
+            "date": "Publication Date",
+            "link": "Link to publication",
+            "description": "Brief description"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award Name",
+            "issuer": "Issuing Organization",
+            "date": "Date Received",
+            "description": "Description of achievement"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization Name",
+            "role": "Your Role",
+            "duration": "Duration",
+            "description": "Description of contribution"
+        }
+    ],
+    "interests": {
+        "professional": [
+            "Professional interest 1",
+            "Professional interest 2"
+        ],
+        "technical": [
+            "Technical interest 1",
+            "Technical interest 2"
+        ],
+        "personal": [
+            "Personal interest 1",
+            "Personal interest 2"
+        ]
+    }
+}

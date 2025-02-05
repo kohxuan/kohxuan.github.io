@@ -1,0 +1,183 @@
+{
+    "basics": {
+        "name": "Su Xuan KOH",
+        "title": "Data Engineering Student @ UTM",
+        "summary": "Data Engineering student @ UTM | Focused on building practical skills and applying them to real-world challenges | Committed to continuous learning and seeking opportunities to contribute to innovative projects",
+        "location": {
+            "city": "Johor Bahru",
+            "country": "Malaysia",
+            "region": "Johor"
+        },
+        "personality": {
+            "traits": [
+                "analytical thinker",
+                "problem solver",
+                "continuous learner",
+                "detail-oriented",
+                "team player",
+                "innovative"
+            ],
+            "communication_style": "Direct and professional, with focus on clear explanations",
+            "work_style": {
+                "preferred_environment": "Collaborative with independent focus time",
+                "problem_solving_approach": "Systematic and data-driven",
+                "learning_method": "Hands-on experimentation and practical application"
+            },
+            "interests": [
+                "technology",
+                "artificial intelligence",
+                "software development",
+                "cloud computing",
+                "data engineering",
+                "drawing"
+            ]
+        },
+        "languages": [
+            {
+                "language": "English",
+                "proficiency": "Professional Working"
+            },
+            {
+                "language": "Malay",
+                "proficiency": "Professional Working"
+            },
+            {
+                "language": "Mandarin",
+                "proficiency": "Native or Bilingual"
+            }
+        ]
+    },
+    "experience": [
+        {
+            "position": "AI Trainer",
+            "company": "Outlier",
+            "duration": "December 2024 - Present",
+            "location": "San Francisco, California, United States",
+            "description": "Contributing to AI development and training"
+        },
+        {
+            "position": "Student",
+            "company": "Universiti Teknologi Malaysia",
+            "duration": "October 2022 - Present",
+            "location": "Johor Bahru, Johor, Malaysia",
+            "description": "Pursuing Bachelor's degree in Computer Science (Data Engineering)"
+        }
+    ],
+    "skills": {
+        "technical": [
+            {
+                "category": "Programming Languages",
+                "items": ["Python", "Google Apps Script"]
+            },
+            {
+                "category": "Tools",
+                "items": ["Orange (Software)", "Google Workspace"]
+            }
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication",
+            "Team Collaboration",
+            "Continuous Learning"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science (Data Engineering) with Honours",
+            "school": "UTM",
+            "year": "October 2022 - July 2026",
+            "location": "Johor Bahru, Malaysia",
+            "details": "Additional education details"
+        },
+        {
+            "degree": "Foundation in Physical Science",
+            "school": "UTM",
+            "year": "July 2021 - July 2022",
+            "location": "Johor Bahru, Malaysia",
+            "details": "Additional education details"
+        },
+        {
+            "degree": "Secondary Education (Science Stream)",
+            "school": "SMK SKUDAI",
+            "year": "January 2016 - March 2021",
+            "location": "Johor, Malaysia",
+            "details": "Additional education details"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project Name",
+            "description": "Detailed project description",
+            "duration": "Time taken",
+            "role": "Your role in the project",
+            "technologies": ["Tech 1", "Tech 2"],
+            "challenges": [
+                "Challenge faced",
+                "How you overcame it"
+            ],
+            "outcomes": [
+                "Project outcome 1",
+                "Project outcome 2"
+            ],
+            "links": {
+                "github": "GitHub repository link",
+                "live": "Live project link",
+                "documentation": "Documentation link"
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Educate Introduction to Cloud 101",
+            "issuer": "AWS",
+            "date": "2024"
+        },
+        {
+            "name": "AI Aware Badge - AI untuk Rakyat",
+            "issuer": "Malaysia",
+            "date": "2024"
+        },
+        {
+            "name": "AI Appreciate Badge - AI untuk Rakyat",
+            "issuer": "Malaysia",
+            "date": "2024"
+        },
+        {
+            "name": "AWS Educate Introduction to Generative AI",
+            "issuer": "AWS",
+            "date": "2024"
+        },
+        {
+            "name": "GDSC Certified: Google Workspace Hackathon 2024",
+            "issuer": "Google",
+            "date": "2024"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Top 10 Best Posters in Poster Minggu Integriti",
+            "issuer": "UTM",
+            "date": "2024"
+        },
+        {
+            "title": "Top 5 Best Designs in Accounting T-Shirt Design Contest",
+            "issuer": "UTM",
+            "date": "2024"
+        },
+        {
+            "title": "Champion in Kuiz Hero Pengguna",
+            "issuer": "UTM",
+            "date": "2024"
+        },
+        {
+            "title": "Second Runner-Up in Pertandingan Bahas",
+            "issuer": "UTM",
+            "date": "2024"
+        },
+        {
+            "title": "Champion in Pertandingan Bicara Berirama",
+            "issuer": "UTM",
+            "date": "2024"
+        }
+    ]
+}

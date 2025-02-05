@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat with Koh Xuan's AI Resume</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+</head>
+
+<body>
+    <div class="container">
+        <div class="chat-container">
+            <div class="header">
+                <h1>Chat with Koh Xuan's AI Resume</h1>
+                <p class="subtitle">Experience the future of professional networking</p>
+            </div>
+            <div class="chat-box" id="chatBox">
+                <div class="message bot welcome">
+                    <div class="message-content">
+                        <div class="apple-icon">👨‍💻</div>
+                        <p>Hello! I'm Koh Xuan's AI assistant.</p>
+                        <div class="quick-actions">
+                            <button onclick="sendQuickMessage('Tell me about your experience')">Experience</button>
+                            <button onclick="sendQuickMessage('What are your skills?')">Skills</button>
+                            <button onclick="sendQuickMessage('Educational background')">Education</button>
+                            <button onclick="sendQuickMessage('Recent projects')">Projects</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="input-area">
+                <input type="text" id="userInput" placeholder="Ask me anything..." autocomplete="off">
+                <button onclick="sendMessage()" class="send-button">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M22 2L11 13M22 2L15 22L11 13M11 13L2 9" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+    <!-- At the bottom of your body tag -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
