@@ -3,3 +3,5 @@
 https://kohxuan.github.io/HTML_Portfolio/
 ## 2 - Bootstrap Portfolio:
 https://kohxuan.github.io/Bootstrap_Portfolio/
+## 3 - Resume:
+https://kohxuan.github.io/Resume_Chatbot/
