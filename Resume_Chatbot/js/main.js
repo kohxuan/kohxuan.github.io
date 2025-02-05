@@ -1,4 +1,4 @@
-const HF_TOKEN = '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';
+// const HF_TOKEN = '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';
 let resumeData = null;
 let conversationHistory = [];
 
