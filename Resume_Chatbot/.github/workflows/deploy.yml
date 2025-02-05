@@ -16,12 +16,13 @@ jobs:
 
       - name: Create config file
         run: |
-          mkdir -p Resume_Chatbot/js
-          echo "const HF_TOKEN = '${{ secrets.HF_TOKEN }}';" > Resume_Chatbot/js/config.js
+          cd Resume_Chatbot
+          mkdir -p js
+          echo "const HF_TOKEN = '${{ secrets.HF_TOKEN }}';" > js/config.js
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          force_orphan: true
+          folder: Resume_Chatbot
+          branch: gh-pages
+          clean: true
